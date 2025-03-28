@@ -1,4 +1,4 @@
-# Config for NextJS
+## Config for NextJS
 
 ```{note}
 NextJS is not officially supported on the Hypernode Platform. So please use this at your own risk,.
@@ -6,7 +6,7 @@ NextJS is not officially supported on the Hypernode Platform. So please use this
 
 Configuration to use as Hypernode Deploy deploy.php for a NextJS webserver application:
 
-```php
+```
 <?php
 
 declare(strict_types=1);

@@ -37,8 +37,8 @@ Then configure HeidiSQL as follows:
    1. Hostname / IP: enter your hypernode
    1. User: enter the MySQL user (Usually '*app*')
    1. Password: enter the MySQL password for the user (see .my.cnf file)
-1. Leave all other fields as they are.
-1. Click save in the bottom-left corner
+5. Leave all other fields as they are.
+6. Click save in the bottom-left corner
 
 ![](_res/nWXl2iE-72uA2piKTf0qsazhobAWv8pMqA.png)
 
