@@ -31,9 +31,9 @@ By default, your MySQL server is protected by a firewall. To connect remotely, y
 Then configure HeidiSQL as follows:
 
 1. Start HeidiSQL
-1. Click new in the bottom-left corner
-1. Choose a suitable name for your connection
-1. Edit the following fields.
+2. Click new in the bottom-left corner
+3. Choose a suitable name for your connection
+4. Edit the following fields.
    1. Hostname / IP: enter your hypernode
    1. User: enter the MySQL user (Usually '*app*')
    1. Password: enter the MySQL password for the user (see .my.cnf file)
